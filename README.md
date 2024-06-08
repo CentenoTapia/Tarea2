@@ -1,5 +1,5 @@
 # Tarea2
-Descripción del Código
+
 Este programa crea una interfaz gráfica de usuario que permite a los usuarios seleccionar una fecha y un color.
 
 -Scene:
